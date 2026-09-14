@@ -9,3 +9,7 @@ This repository contains my documentation and hands-on assignment for **Kali Lin
 - **Core Commands:** `ls`, `cd`, `cat`, `nano`, `mkdir`, `rm`, `cp`, `mv`, `grep`, `find`[cite: 1].
 
 📄 **Full Assignment:** View `Kali Linux Essentials - Assignment 2.pdf` above for terminal outputs and screenshots[cite: 1].
+---
+
+## 📜 Certifications & Skill Milestones
+- **C Fundamentals** — Completed via Coddy Tech *(August 2026 | ID: `UlInKV-c-0xW5Z9`)*
