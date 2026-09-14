@@ -13,3 +13,10 @@ This repository contains my documentation and hands-on assignment for **Kali Lin
 
 ## 📜 Certifications & Skill Milestones
 - **C Fundamentals** — Completed via Coddy Tech *(August 2026 | ID: `UlInKV-c-0xW5Z9`)*
+- ---
+
+## 🛡️ TryHackMe Stats & Milestones
+- **Rank:** Top 35% | **Badge Level:** `[PATHFINDER]`
+- **Rooms Completed:** 8 Rooms
+- **Focus:** Network Fundamentals, Packets & Frames, Extending Your Network
+- **Profile:** [tryhackme.com/p/mesbamahib](https://tryhackme.com/p/mesbamahib)
