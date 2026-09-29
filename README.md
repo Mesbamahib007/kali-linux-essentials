@@ -20,3 +20,27 @@ This repository contains my documentation and hands-on assignment for **Kali Lin
 - **Rooms Completed:** 8 Rooms
 - **Focus:** Network Fundamentals, Packets & Frames, Extending Your Network
 - **Profile:** [tryhackme.com/p/mesbamahib](https://tryhackme.com/p/mesbamahib)
+- # 🐧 Kali Linux Essentials & Hands-on Labs
+
+Welcome to my repository! Here, I document my journey in Linux fundamentals, network security analysis, and practical cybersecurity labs.
+
+---
+
+### 📊 Featured Project: Wireshark Network Traffic Analysis
+
+- **Overview:** Analyzed local network packet captures (`.pcapng`) using Wireshark on a virtual environment (`eth0`).
+- **Protocols Analyzed:**
+  - **mDNS (Multicast Domain Name System):** Examined local device discovery traffic and standard query responses.
+  - **DHCP (Dynamic Host Configuration Protocol):** Observed client-server IP request (`DHCP Request`) and assignment (`DHCP ACK`) transactions.
+  - **Ethernet & Hardware Mapping:** Analyzed Ethernet II frame headers, MAC address resolutions, and endpoint traffic statistics.
+- **Key Findings:** Confirmed healthy background operation of local networking protocols with no anomalous or suspicious external traffic.
+
+📂 **Project Files:**
+- 📄 [View Full Traffic Analysis Report (PDF)](./Wireshark%20Network%20Traffic%20Analysis%20Report.pdf)
+- 📦 [Download Raw Capture File (mesba.pcapng)](./mesba.pcapng)
+
+---
+
+### 🛠️ Lab Environment & Tools
+- **OS:** Kali Linux (VMware Fusion)
+- **Tools:** Wireshark, Bash Terminal, Networking Utilities
